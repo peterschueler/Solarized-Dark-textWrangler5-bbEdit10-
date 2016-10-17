@@ -1,4 +1,10 @@
+#Forked
+This is a further refinement of this theme: https://github.com/ozym11/Solarized-Dark-textWrangler5-bbEdit10- . I wanted something closer to this theme: https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode
+
+Below the original README.
+
 #TextWrangler/BBEdit Color Scheme - Solarized Dark
+
 Inspired by http://ethanschoonover.com/solarized. Adapted from https://gist.github.com/dgoppenheimer/d58dbc7bd9170f1b1a5d. Tested on MacOSX 10.8.5.
 
 <b>**Installation:**</b>
